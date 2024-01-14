@@ -1,1 +1,1 @@
-![Alt text](file:///media/hossam/Private/photo.jpg)
+![Alt text](photo.jpg)
