@@ -1,3 +1,7 @@
 Name: Hossam Eldin Hassan
 GitHub ID: hossamhassan70
 Email: hossam.sahss120@gmail.com
+To remove branches form local 
+git branch -d <branch name>
+To remove branch from remote 
+git push origin :branch_name
