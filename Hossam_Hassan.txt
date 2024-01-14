@@ -5,3 +5,10 @@ To remove branches form local
 git branch -d <branch name>
 To remove branch from remote 
 git push origin :branch_name
+====================
+To list tags 
+git tag
+To delete tag from lacal
+git tag -d <tag_name>
+To remove from remote
+git push origin --delete <tag_name>
